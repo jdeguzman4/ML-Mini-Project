@@ -1,1 +1,25 @@
+<<<<<<< HEAD
+# Ignore environment directory
 env
+
+# Ignore python generated cache
+__pycache__
+miniproject/__pycache__
+
+# Ignore IDE generated files
+.idea
+
+# Ignore jupyter generated files
+notebooks/.ipynb_checkpoints
+notebooks/**/.ipynb_checkpoints
+notebooks/x_train.csv
+notebooks/x_test.csv
+notebooks/y_train.csv
+notebooks/y_test.csv
+
+# Ignore tmp
+tmp
+
+# Ignore models joblib in notebooks
+notebooks/*.joblib
+
