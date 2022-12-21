@@ -23,3 +23,5 @@ tmp
 # Ignore models joblib in notebooks
 notebooks/*.joblib
 
+red_wine_tests
+
